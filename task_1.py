@@ -1,3 +1,5 @@
+https://github.com/YaDmitryE/py_lesson_5
+
 # Вводим целое число
 number = int(input("Введите целое число: "))
 
