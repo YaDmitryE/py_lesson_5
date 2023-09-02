@@ -1,4 +1,4 @@
-https://github.com/YaDmitryE/py_lesson_5
+# https://github.com/YaDmitryE/py_lesson_5
 
 # Введите слово с помощью input()
 word = input("Введите слово из маленьких латинских букв: ")

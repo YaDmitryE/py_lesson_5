@@ -1,4 +1,4 @@
-https://github.com/YaDmitryE/py_lesson_5
+# https://github.com/YaDmitryE/py_lesson_5
 
 # Вводим сумму инвестиций X
 X = int(input("Введите минимальную сумму инвестиций X: "))
